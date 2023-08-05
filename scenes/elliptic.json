@@ -1,0 +1,28 @@
+{
+  "bodies": [
+    {
+      "radius": 8.0,
+      "mass": 10.0,
+      "position_x": 150.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 47.5,
+      "red": 255,
+      "green": 255,
+      "blue": 255,
+      "name": "comet"
+    },
+    {
+      "radius": 50.0,
+      "mass": 1900000000000000.0,
+      "position_x": 250.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 0.0,
+      "red": 100,
+      "green": 100,
+      "blue": 0,
+      "name": "Sun"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "bodies": [
+    {
+      "radius": 50.0,
+      "mass": 1.9e+15,
+      "position_x": 600.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 0.0,
+      "red": 255,
+      "green": 129,
+      "blue": 0,
+      "name" : "Sun"
+    },
+    {
+      "radius": 2.0,
+      "mass": 1.0,
+      "position_x": 500.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 37.0,
+      "red": 134,
+      "green": 137,
+      "blue": 135,
+      "name" : "Mercury"
+    },
+    {
+      "radius": 4.2,
+      "mass": 1.5,
+      "position_x": 430.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 27.0,
+      "red": 187,
+      "green": 157,
+      "blue": 113,
+      "name" : "Venus"
+    },
+    {
+      "radius": 4.5,
+      "mass": 1.7,
+      "position_x": 370.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 23.0,
+      "red": 22,
+      "green": 20,
+      "blue": 95,
+      "name" : "Earth"
+    },
+    {
+      "radius": 2.2,
+      "mass": 3.65,
+      "position_x": 330.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 21.0,
+      "red": 230,
+      "green": 140,
+      "blue": 100,
+      "name" : "Mars"
+    },
+    {
+      "radius": 20.0,
+      "mass": 300.0,
+      "position_x": 100.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 15.6,
+      "red": 216,
+      "green": 160,
+      "blue": 88,
+      "name" : "Jupiter"
+    },
+    {
+      "radius": 2.0,
+      "mass": 1.0,
+      "position_x": 940.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 60.0,
+      "red": 100,
+      "green": 100,
+      "blue": 100,
+      "name" : "Comet"
+    }
+
+  ]
+}

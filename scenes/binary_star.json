@@ -1,0 +1,40 @@
+{
+  "bodies": [
+    {
+      "radius": 50.0,
+      "mass": 4747774480712165.0,
+      "position_x": 800.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 20.0,
+      "red": 100,
+      "green": 100,
+      "blue": 100,
+      "name": "star 1"
+    },
+    {
+      "radius": 50.0,
+      "mass": 4747774480712165.0,
+      "position_x": 400.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": -20.0,
+      "red": 100,
+      "green": 100,
+      "blue": 100,
+      "name": "star 2"
+    },
+    {
+      "radius": 10.0,
+      "mass": 0.0000001,
+      "position_x": 600.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 0.0,
+      "red": 100,
+      "green": 100,
+      "blue": 100,
+      "name": "planet"
+    }
+  ]
+}

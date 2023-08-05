@@ -1,0 +1,28 @@
+{
+  "bodies": [
+    {
+      "radius": 50.0,
+      "mass": 2000000000000000.0,
+      "position_x": 900.0,
+      "position_y": 300.0,
+      "velocity_x": 0.0,
+      "velocity_y": 0.0,
+      "red": 100,
+      "green": 100,
+      "blue": 100,
+      "name": "Big Body"
+    },
+    {
+      "radius": 25.0,
+      "mass": 1000000000000000.0,
+      "position_x": 300.0,
+      "position_y": 400.0,
+      "velocity_x": 0.0,
+      "velocity_y": 0.0,
+      "red": 100,
+      "green": 100,
+      "blue": 100,
+      "name": "Little Body"
+    }
+  ]
+}

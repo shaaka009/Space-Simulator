@@ -1,0 +1,34 @@
+---
+# Members of your group.
+group:
+  - name: Jacob Dentes
+    netid: jmd477
+  - name: Akaash Mahinth
+    netid: am2257
+  - name: Melvin Van Cleave
+    netid: mav85
+  - name: Samira Nahar
+    netid: sb926
+# Your PM.
+pm:
+  name: Arianna Curillo
+  netid: asc327
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Solar System Simulator"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/am2257/JAMS"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is an interactive solar system physics simulator. Users can
+  choose from a series of ready-to-go scenes, or choose to create their
+  own in the command line. The system supports custom size, mass, color, names,
+  positions, and velocities. When you are ready to go, play out your simulation
+  with physically accurate gravity and collisions. Users can control the speed
+  of the simulation and the tilt angle of the orbital plane. They can pause,
+  play, and restart the scene. You can even click on bodies to get live
+  statistics on a bodies velocity, position, name, etc. Set the scene and watch
+  Newtonian accurate gravitational physics unfold!

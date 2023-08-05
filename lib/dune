@@ -1,0 +1,4 @@
+(library
+ (name SolarSystem)
+ (public_name SolarSystem)
+ (libraries yojson graphics)(instrumentation (backend bisect_ppx)))

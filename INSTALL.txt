@@ -1,0 +1,29 @@
+To install and use this project
+
+Run "opam install graphics"
+  Install the dependencies suggested by opam.
+  For example, Mac users will need to install "xquartz."
+
+Run "opam install yojson"
+  Install dependencies suggested by opam.
+
+WSL users: make sure that you have the latest version of ubuntu
+  Ensure you are connected to the internet and run "wsl.exe --update"
+
+Restart your computer
+  This will ensure that Xserver is properly installed
+
+Run "make build"
+
+Run "make play"
+
+Type the letter 'p' on your keyboard to run the simulation
+
+If the above instructions failed, WSL users may need to follow the instructions below
+  Install the XServer from https://sourceforge.net/projects/vcxsrv/
+  
+  When you plan to run the server, open the application, click next
+  until you get to "Extra settings." Check "Disable access control"
+  and press next. Finally, go to terminal and enter:
+  echo "export DISPLAY=\$(cat /etc/resolv.conf | grep nameserver | awk '{print \$2; exit;}'):0.0" >> ~/.bashrc
+  You will need to do this each time you restart your computer
