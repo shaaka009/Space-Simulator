@@ -10,3 +10,5 @@ Melvin Van Cleave - mav85
 ## How to Start
 
 In terminal or command prompt reach the project folder, and run `make build` followed by `make play`.
+
+[OCAMLVid.mov] is a demo video showing most functionality
