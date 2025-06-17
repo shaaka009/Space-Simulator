@@ -11,4 +11,4 @@ Melvin Van Cleave - mav85
 
 In terminal or command prompt reach the project folder, and run `make build` followed by `make play`.
 
-[Here](Space-Simulator/OCAMLVid.mov) is a demo video showing most functionality
+[Here](OCAMLVid.mov) is a demo video showing most functionality
